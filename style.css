@@ -20,11 +20,19 @@
     text-decoration: none;
      margin-right: 20px;
      color: black;
+
 }
 
 #n{
     display: flex;
     justify-content: space-between;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    margin-top: 0px;
 }
 .n1
 {
